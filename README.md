@@ -50,6 +50,10 @@ Make sure your APK file path is correct and that you include the `--path` argume
 
 Check out the sick ASCII art in the output! 🖥️ Your terminal will thank you for it.
 
+# 🎖️ Credits
+
+This project is an updated version of [FireBaseScanner](https://github.com/shivsahni/FireBaseScanner) by Shiv Sahni. The original version did not work in my environment, so I made modifications to ensure compatibility and improve functionality.
+
 ## 📜 License
 
 Feel free to use, modify, or contribute to this project under the [MIT License](LICENSE).
